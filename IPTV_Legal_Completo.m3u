@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tvbrasil" group-title="Canais Abertos",TV Brasil
+https://play.ebc.com.br/live/1.m3u8
+
+#EXTINF:-1 tvg-id="tvcultura" group-title="Canais Abertos",TV Cultura
+https://stmv1.srvif.com/cultura/cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvjustica" group-title="Canais Abertos",TV Justiça
+https://stream01.camara.gov.br/tvjustica/smil:tvjustica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvcamara" group-title="Canais Abertos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="tvfutura" group-title="Canais Abertos",Futura
+https://cdn.jmvstream.com/live/futura/futura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plutokids" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dfb64a6b2fbb700091a3873/master.m3u8
+
+#EXTINF:-1 tvg-id="plutoanime" group-title="Infantil",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1ab91dd81364000a8b1814/master.m3u8
+
+#EXTINF:-1 tvg-id="plutocinema" group-title="Filmes",Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6779b2acc708000977cfa1/master.m3u8
+
+#EXTINF:-1 tvg-id="plutonostalgia" group-title="Filmes",Cine Nostalgia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611d134c85393d0007a0d3b9/master.m3u8
+
+#EXTINF:-1 tvg-id="cineclub" group-title="Filmes",Pluto TV Cine Club
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8da5f54649f400092b4a2d/master.m3u8
